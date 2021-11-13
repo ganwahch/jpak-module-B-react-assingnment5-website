@@ -1,0 +1,26 @@
+.round {
+    display: block improtan!;
+    max-width: 100% improtan!;
+    height: 5% improtan!;
+}
+.Cards{
+    float: left;
+}
+.btn{
+  /* padding-bottom: 15px 32px !important; */
+  float: left !important;
+  
+}
+
+.Card.Img{
+    display: block !important;
+    max-width: 100% !important;
+}
+.card{
+    float: right !important;
+}
+
+.Card.Img:not(.zoomImage) {
+    display: block;
+    max-width: 100%;
+}
